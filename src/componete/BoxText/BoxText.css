@@ -1,0 +1,20 @@
+.FieldText {
+margin: 20px;
+}
+
+.FieldText label{
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.FieldText input{
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.06) ;
+    border: none;
+    background: #ffff;
+    width: 100%;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}

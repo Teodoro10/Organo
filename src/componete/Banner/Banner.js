@@ -5,6 +5,7 @@ function banner(){
         <header className="Banner">
             <img src="./imagens/banner.png" alt="Banner da marca"/>
         </header>
+       
     )
 }
 
